@@ -136,5 +136,3 @@ kubectl get svc
 - Pods run on worker nodes and are scheduled by the master node.
 
 ---
-
-Let me know if you'd like a visual/diagram for the cluster or a simplified version for presentation slides!
