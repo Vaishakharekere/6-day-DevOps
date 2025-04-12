@@ -3,10 +3,6 @@
 
 ##  AWS IAM User Role
 
-### Console Sign-in Link:
-```
-https://
-```
 
 ### User Details:
 - **User Name**: 
